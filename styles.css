@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+header {
+  background-color: #2a9d8f;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+main {
+  padding: 2em;
+}
+
+h1,
+h2 {
+  color: #264653;
+}
+
+button {
+  background-color: #2a9d8f;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #21867a;
+}
+
+.product,
+.cart-item {
+  border: 1px solid #e0e0e0;
+  padding: 1em;
+  margin-bottom: 1em;
+  background-color: white;
+}
